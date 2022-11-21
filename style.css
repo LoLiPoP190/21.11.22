@@ -5,6 +5,7 @@
 .container{
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
   margin: 40px;
+  padding: 20px 25px;
 
   display: flex;
 }
@@ -13,9 +14,10 @@
 }
 .sidebar{
   flex: 0 0 300px;
+  margin-right: 10px;
 }
 .box{
-  margin: 10px 20px;
+  margin-bottom: 30px;
   border-radius: 10px;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
   padding: 10px;
