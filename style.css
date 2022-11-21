@@ -34,4 +34,15 @@
   border-radius: 50%;
   width: 70px;
   height: 70px;
+  margin-left: 20px;
+}
+.blue li{
+  list-style-type: none;
+  margin-left: -20px;
+}
+.blue h1{
+margin-left: 20px;
+}
+.blue div{
+margin-left: 20px;
 }
