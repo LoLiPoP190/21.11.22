@@ -8,6 +8,9 @@
 
   display: flex;
 }
+.sidebar{
+  flex: 0 0 300px;
+}
 .box{
   margin: 10px 20px;
   border-radius: 10px;
