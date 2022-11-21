@@ -24,4 +24,14 @@
 }
 .blue{
   background-color: blue;
+  color: white;
+}
+.blue a{
+  color: white;
+  text-decoration: none;
+}
+.blue img{
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
 }
